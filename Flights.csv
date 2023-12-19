@@ -1,0 +1,18 @@
+Flight ID,Airline,Seats Available,Source,Destination
+1,United,150,Chicago,Michigan
+2,Alaska,185,Chicago,Newjersey
+3,JetBlue,148,Washington,California
+4,Frontier,130,Texas,Chicago
+5,Alaska,50,Chicago,Newyork
+6,Cape,100,Boston,Chicago
+7,Spirit,120,Chicago,Boston
+8,Alaska,175,Chicago,Boston
+9,Frontier,150,Chicago,Boston
+10,Alaska,180,Chicago,Vegas
+11,American,120,California,Michigan
+12,Alaska,180,Michigan,Texas
+15,Cape,175,Miami,California
+13,Frontier,225,Vegas,Washington
+14,United,150,Vegas,Newyork
+16,United,175,Texas,Ohio
+17,JetBlue,90,Missouri,Chicago
